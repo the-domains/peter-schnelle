@@ -2,35 +2,42 @@
     <channel>
         <title><![CDATA[Technical sales guy, with a background in helping grow startup companies]]></title>
         <description><![CDATA[Technical sales guy, with a background in helping grow startup companies]]></description>
-        <link>https://thegrid.ai/peter-schnelle/</link>
+        <link>http://peterschnelle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 06:52:59 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/peter-schnelle/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 23:33:03 GMT</lastBuildDate>
+        <atom:link href="http://peterschnelle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I love CO in the summer]]></title>
+            <description><![CDATA[<article><h1>I love CO in the summer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faa2379e-b9d8-439c-9975-4fb586194348.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/faa2379e-b9d8-439c-9975-4fb586194348.jpg</link>
+            <guid isPermaLink="false">4fe485da-1a5d-45e3-b52d-321a17c76a48</guid>
+            <pubDate>Tue, 02 Aug 2016 23:31:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5034f054-fb93-47f1-969c-c0bb70a2ed85.jpg">]]></description>
-            <link>https://thegrid.ai/peter-schnelle/0b5d6d1d-a51d-45a4-b2da-b681ae67d79b/index.html</link>
+            <link>http://peterschnelle.com/0b5d6d1d-a51d-45a4-b2da-b681ae67d79b/index.html</link>
             <guid isPermaLink="false">0b5d6d1d-a51d-45a4-b2da-b681ae67d79b</guid>
             <pubDate>Thu, 17 Mar 2016 06:52:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcf62385-407b-404d-98a9-4e22f6e27bb3.jpg">]]></description>
-            <link>https://thegrid.ai/peter-schnelle/64987787-cd75-4442-9c7a-6d4ee38d2696/index.html</link>
+            <link>http://peterschnelle.com/64987787-cd75-4442-9c7a-6d4ee38d2696/index.html</link>
             <guid isPermaLink="false">64987787-cd75-4442-9c7a-6d4ee38d2696</guid>
             <pubDate>Thu, 17 Mar 2016 06:30:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d03459b1-fe0f-4b57-8f44-49a18ddf7658.jpg">]]></description>
-            <link>https://thegrid.ai/peter-schnelle/a52ef684-e39d-4eb4-b84a-7b8ce5a403a0/index.html</link>
+            <link>http://peterschnelle.com/a52ef684-e39d-4eb4-b84a-7b8ce5a403a0/index.html</link>
             <guid isPermaLink="false">a52ef684-e39d-4eb4-b84a-7b8ce5a403a0</guid>
             <pubDate>Thu, 17 Mar 2016 06:29:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello world! Hopefully this page will take shape as a sort of digital respresentation of myself. A living, breathing snapshot into what I am currently interested in that will double as a repository of past interests/hobbies and curiosities I have pursued.</p>]]></description>
-            <link>https://thegrid.ai/peter-schnelle/17e438f2-9f6e-424f-8807-a2856cf42eef/index.html</link>
+            <link>http://peterschnelle.com/17e438f2-9f6e-424f-8807-a2856cf42eef/index.html</link>
             <guid isPermaLink="false">17e438f2-9f6e-424f-8807-a2856cf42eef</guid>
             <pubDate>Thu, 17 Mar 2016 06:22:38 GMT</pubDate>
         </item>
