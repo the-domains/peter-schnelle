@@ -1,29 +1,41 @@
-name: Peter Schnelle
-favicon: null
-layout_spectrum: 0.74121
-typography_spectrum: 0
 title: 'Technical sales guy, with a background in helping grow startup companies'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.75
+  brandStrength: 0.9375
+  lightness: 0.75
+  brandColors:
+    - '#3664AF'
+    - '#0A0E11'
+    - '#FFFEFF'
+    - '#AECBF7'
+    - '#918650'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Peter Schnelle
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#020307'
-    - '#6fbaf3'
-    - '#3c75c6'
-    - '#ffffff'
-    - '#383e4a'
-  brandStrength: 0.9375
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.3170213
+layout_spectrum: 0
